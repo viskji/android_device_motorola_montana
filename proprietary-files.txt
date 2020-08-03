@@ -1,4 +1,4 @@
-# Proprietary Blobs for Cedric
+# Proprietary Blobs for Montana
 
 -app/QtiTelephonyService/QtiTelephonyService.apk
 -framework/WfdCommon.jar
@@ -80,7 +80,7 @@ etc/firmware/sensorhubfw.bin
 etc/firmware/synaptics-s3508-16082601-255c40-addison.tdat
 etc/firmware/synaptics-s3508sga-16082601-255c40-addison.tdat
 etc/firmware/synaptics-s3508sga-16103104-255c40-albus.tdat
-etc/firmware/synaptics-tianma-s3203b-16120901-25d862-cedric.tdat
+etc/firmware/synaptics-tianma-s3203b-16120901-25d862-montana.tdat
 etc/firmware/upd-00000126-00001001-fed70128-fffe0001-02.tftf
 etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin
 etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv_Argentina.bin
